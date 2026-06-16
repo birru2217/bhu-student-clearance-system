@@ -10,6 +10,7 @@ An automated, secure, and user-friendly student clearance web application design
 <img width="792" height="476" alt="Screenshot 2026-06-16 081419" src="https://github.com/user-attachments/assets/57c22cdb-8efb-44fa-9023-7dd54a7856d9" />
 <img width="944" height="477" alt="Screenshot 2026-06-16 081444" src="https://github.com/user-attachments/assets/4658240f-58c6-4c8f-8bb5-bea915cf6885" />
 <img width="941" height="470" alt="Screenshot 2026-06-16 081507" src="https://github.com/user-attachments/assets/07733df7-469b-42eb-bf30-75cf80bb1e4b" />
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/b392914c-de21-4f10-b5eb-d9304b28d25a" />
 
 <img width="919" height="473" alt="Screenshot 2026-06-16 081531" src="https://github.com/user-attachments/assets/2968a621-7001-4ef9-a76e-c5249f9c57e0" />
 <img width="917" height="476" alt="Screenshot 2026-06-16 081543" src="https://github.com/user-attachments/assets/8c844e80-c128-4909-94ef-342901312d90" />
