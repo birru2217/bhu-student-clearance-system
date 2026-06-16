@@ -7,9 +7,10 @@
 An automated, secure, and user-friendly student clearance web application designed for Bule Hora University (BHU). This system replaces slow, paper-dependent clearance workflows with real-time digital approvals across multiple university offices, culminating in a verifiable digital clearance certificate.
 
 ## 📸 System Previews
-![Uploading Screenshot 2026-06-16 081419.png…]()
-![Uploading Screenshot 2026-06-16 081444.png…]()
-![Uploading Screenshot 2026-06-16 081507.png…]()
+<img width="792" height="476" alt="Screenshot 2026-06-16 081419" src="https://github.com/user-attachments/assets/57c22cdb-8efb-44fa-9023-7dd54a7856d9" />
+<img width="944" height="477" alt="Screenshot 2026-06-16 081444" src="https://github.com/user-attachments/assets/4658240f-58c6-4c8f-8bb5-bea915cf6885" />
+<img width="941" height="470" alt="Screenshot 2026-06-16 081507" src="https://github.com/user-attachments/assets/07733df7-469b-42eb-bf30-75cf80bb1e4b" />
+
 <img width="919" height="473" alt="Screenshot 2026-06-16 081531" src="https://github.com/user-attachments/assets/2968a621-7001-4ef9-a76e-c5249f9c57e0" />
 <img width="917" height="476" alt="Screenshot 2026-06-16 081543" src="https://github.com/user-attachments/assets/8c844e80-c128-4909-94ef-342901312d90" />
 <img width="950" height="470" alt="Screenshot 2026-06-16 081600" src="https://github.com/user-attachments/assets/443e6f54-45d6-4e16-b92d-9939cd47d811" />
@@ -18,6 +19,7 @@ An automated, secure, and user-friendly student clearance web application design
 <img width="835" height="329" alt="Screenshot 2026-06-16 081651" src="https://github.com/user-attachments/assets/90f8718f-d0ba-473c-9e23-2bc0e9799b1d" />
 <img width="865" height="326" alt="Screenshot 2026-06-16 081740" src="https://github.com/user-attachments/assets/9c94e900-8f20-41cc-9798-1140757beb00" />
 <img width="607" height="431" alt="Screenshot 2026-06-16 084250" src="https://github.com/user-attachments/assets/07133310-c37e-41f2-8fd9-4f687fef8703" />
+
 
 ---
 
