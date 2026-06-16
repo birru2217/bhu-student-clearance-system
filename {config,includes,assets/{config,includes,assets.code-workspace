@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../actions"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../assets - Copy"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../dashboards"
+		},
+		{
+			"path": "../includes"
+		},
+		{
+			"path": "../sql"
+		},
+		{
+			"path": "../vendor"
+		}
+	]
+}
